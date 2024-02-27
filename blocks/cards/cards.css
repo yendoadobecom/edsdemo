@@ -17,7 +17,7 @@
 }
 
 .cards .cards-card-image {
-  line-height: 0;
+  line-height: 100%;
 }
 
 .cards .cards-card-body > *:first-child {
