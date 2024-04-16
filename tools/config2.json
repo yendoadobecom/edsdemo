@@ -1,0 +1,12 @@
+{
+	"id": "asset-library",
+	"title": "My Assets",
+	"environments": [
+	"edit"
+	],
+	"url": "http://localhost:4502/assets.html/content/dam",
+	"isPalette": true,
+	"includePaths": [ "**.docx**" ],
+	"passConfig": true,
+	"paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width:400px; height: calc(100vh - 60px)"
+}
