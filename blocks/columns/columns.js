@@ -13,6 +13,10 @@ export default function decorate(block) {
           picWrapper.classList.add('columns-img-col');
         }
       }
+      const mark = col.textContent.substring(1,1);
+      if (mark === 'C') {
+        div.className = 'Mark'
+      }
     });
   });
 }
