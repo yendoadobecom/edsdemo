@@ -15,6 +15,7 @@
 }
 
 .columns > div > div strong {
+  width: auto;
   padding: 10px 10px 10px 10px;
   border-radius: 10px 10px 10px 10px;
   background-color: #00CC99;
