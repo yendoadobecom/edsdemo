@@ -14,9 +14,10 @@ export default function decorate(block) {
         }
       }
       const mark = col.textContent.substring(1,1);
-      if (mark === 'C') {
+      /*if (mark === 'C') {
         div.classList.add('Mark');
-      }
+      }*/
+      div.classList.add('Mark');
     });
   });
 }
