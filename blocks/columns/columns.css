@@ -31,4 +31,9 @@
     flex: 1;
     order: unset;
   }
+
+  .columns > div > .Mark {
+    background-color: #666666;
+  }
+  
 }
