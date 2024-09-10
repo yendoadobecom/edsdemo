@@ -13,7 +13,8 @@
 }
 
 .columns > div > div strong {
-  background-color: #666666;
+  padding: 10px 10px 10px 10px;
+  background-color: #00FF99;
 }
 
 .columns > div > .columns-img-col {
