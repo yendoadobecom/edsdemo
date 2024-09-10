@@ -14,11 +14,12 @@
 
 .cards .cards-card-body {
   margin: 16px;
-  background-color: #00CC99;
+  background-color: #FFCC99;
 }
 
 .cards .cards-card-image {
   line-height: 100%;
+  background-color: #00CC99;
 }
 
 .cards .cards-card-body > *:first-child {
