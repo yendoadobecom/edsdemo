@@ -89,6 +89,7 @@ h4, h5, h6 {
 }
 
 h1 { font-size: var(--heading-font-size-xxl);
+     color: var(--text-color);
      border-bottom: 1px solid #00FF66;
      display: inline-block;
    }
