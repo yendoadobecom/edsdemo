@@ -5,7 +5,7 @@ export default function decorate(block) {
   // setup image columns
   [...block.children].forEach((row) => {
     const mark = row.children;
-    if (mark.substr(1,1) === 'C') {
+    if (mark.substring(1,1) === 'C') {
       div.className = 'Mark';
     }
     [...row.children].forEach((col) => {
