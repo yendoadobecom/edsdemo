@@ -23,6 +23,7 @@
   transition: background-color 0.2s;
   text-align: left;
   font-size: var(--body-font-size-s);
+  background-color: #00FFBB;
 }
 
 .accordion details[open] summary {
