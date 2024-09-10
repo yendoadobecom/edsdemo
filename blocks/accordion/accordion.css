@@ -25,7 +25,7 @@
   font-size: var(--body-font-size-s);
   background-color: #00CC99;
   border-radius: 10px 10px 0px 0px;
-  border: 0px solid transparent;
+  border: 0px solid var(--background-color);
 }
 
 .accordion details[open] summary {
