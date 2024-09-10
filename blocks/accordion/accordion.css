@@ -23,18 +23,18 @@
   transition: background-color 0.2s;
   text-align: left;
   font-size: var(--body-font-size-s);
-  background-color: #00CC77;
+  background-color: #00CC99;
 }
 
 .accordion details[open] summary {
   /*background-color: var(--light-color);*/
-  background-color: #00CC77;
+  background-color: #00CC99;
 }
 
 .accordion details summary:focus,
 .accordion details summary:hover {
   /*background-color: var(--light-color);*/
-  background-color: #00CC77;
+  background-color: #00CC99;
 }
 
 .accordion details summary::-webkit-details-marker {
