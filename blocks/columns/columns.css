@@ -11,6 +11,9 @@
 
 .columns > div > div {
   order: 1;
+}
+
+.columns > div > div strong {
   background-color: #FFFFFF;
 }
 
