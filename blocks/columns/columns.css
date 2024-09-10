@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   text-align: left;
-  background-color: #666666;
 }
 
 .columns img {
@@ -14,7 +13,7 @@
 }
 
 .columns > div > div strong {
-  background-color: #FFFFFF;
+  background-color: #666666;
 }
 
 .columns > div > .columns-img-col {
