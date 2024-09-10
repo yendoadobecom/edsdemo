@@ -31,12 +31,14 @@
 .accordion details[open] summary {
   /*background-color: var(--light-color);*/
   background-color: #00CC99;
+  border-color: var(--background-color);
 }
 
 .accordion details summary:focus,
 .accordion details summary:hover {
   /*background-color: var(--light-color);*/
   background-color: #00CC99;
+  border-color: var(--background-color);
 }
 
 .accordion details summary::-webkit-details-marker {
@@ -54,6 +56,7 @@
   border: 2px solid;
   border-width: 2px 2px 0 0;
   transition: transform 0.2s;
+  border-color: var(--background-color);
 }
 
 .accordion details[open] summary::after {
