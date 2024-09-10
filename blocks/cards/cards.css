@@ -13,6 +13,11 @@
   background-color: #00CC99;
 }
 
+.cards > li {
+  background-color: var(--background-color);
+}
+
+
 .cards .cards-card-body {
   margin: 16px;
 }
