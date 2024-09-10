@@ -1,5 +1,6 @@
 .accordion details {
   border: 1px solid #dadada;
+  text-align: left;
 }
 
 /* stylelint-disable-next-line no-descending-specificity */
@@ -19,6 +20,7 @@
   list-style: none;
   overflow: auto;
   transition: background-color 0.2s;
+  text-align: left;
 }
 
 .accordion details[open] summary {
