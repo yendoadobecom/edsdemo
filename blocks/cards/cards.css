@@ -13,6 +13,7 @@
   border: 1px solid var(--dark-color);
   background-color: var(--background-color);
   border-color: #000000;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .cards > li {
