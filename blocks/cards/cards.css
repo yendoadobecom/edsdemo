@@ -5,7 +5,6 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(278px, 1fr));
   grid-gap: 16px;
-  border-radius: 10px 10px 10px 10px;
 }
 
 .cards > ul > li {
@@ -14,7 +13,7 @@
 }
 
 .cards > li {
-  background-color: #00FF99;
+  border-radius: 10px 10px 10px 10px;
 }
 
 
