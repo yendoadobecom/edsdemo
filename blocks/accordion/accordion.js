@@ -10,7 +10,7 @@ export default function decorate(block) {
     const label = row.children[0];
     const summary = document.createElement('summary');
     summary.className = 'accordion-item-label';
-    summary.append(<img src="https://info.carlifesquare.com/assets/cosmo-appsite/img/faq/q.svg"/>);
+    summary.append('<img src="https://info.carlifesquare.com/assets/cosmo-appsite/img/faq/q.svg"/>');
     summary.append(...label.childNodes);
     // decorate accordion item body
     const body = row.children[1];
