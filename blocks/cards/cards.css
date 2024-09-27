@@ -19,7 +19,6 @@
 
 .cards .cards-card-body {
   margin: 16px;
-  border-radius: 10px 10px 10px 10px;
 }
 
 .cards .cards-card-image {
@@ -28,6 +27,7 @@
 
 .cards .cards-card-body > *:first-child {
   margin-top: 10px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .cards > ul > li img {
