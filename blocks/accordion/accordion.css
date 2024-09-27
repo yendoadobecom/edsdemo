@@ -2,6 +2,7 @@
   border: 1px solid #dadada;
   text-align: left;
   font-size: var(--body-font-size-xs);
+  border-radius: 10px 10px 10px 10px;
   border-color: #000000;
 }
 
