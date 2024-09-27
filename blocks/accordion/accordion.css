@@ -14,14 +14,13 @@
 }
 
 .accordion details p {
-  /*margin-bottom: 0.8em;*/
-  margin-bottom: 0em;
+  margin-bottom: 0.8em;
 }
 
 .accordion details summary {
   position: relative;
   /*padding: 0 16px;*/
-  padding: 10px 10px 10px 10px; 
+  padding: 10px 10px 10px 10px;
   padding-right: 46px;
   cursor: pointer;
   list-style: none;
@@ -58,7 +57,8 @@
   width: 6px;
   height: 6px;
   border: 2px solid;
-  border-width: 2px 2px 0 0;
+  /*border-width: 2px 2px 0 0;*/
+  border-width: 2px 2px 2px 2px;
   transition: transform 0.2s;
 }
 
