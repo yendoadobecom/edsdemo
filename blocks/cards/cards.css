@@ -5,6 +5,8 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(278px, 1fr));
   grid-gap: 16px;
+  border-color: #000000;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .cards > ul > li {
@@ -27,7 +29,6 @@
 
 .cards .cards-card-body > *:first-child {
   margin-top: 10px;
-  border-radius: 10px 10px 10px 10px;
 }
 
 .cards > ul > li img {
