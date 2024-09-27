@@ -10,11 +10,13 @@
 .accordion details + details {
   /*margin-top: 24px;*/
   margin-top: 10px;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .accordion details p {
   /*margin-bottom: 0.8em;*/
   margin-bottom: 0em;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .accordion details summary {
