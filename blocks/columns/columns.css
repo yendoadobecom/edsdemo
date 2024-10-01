@@ -8,7 +8,6 @@
 
 .columns img {
   width: 100%;
-  border-radius: 10px 10px 10px 10px;
 }
 
 .columns > div > div {
@@ -26,6 +25,7 @@
 
 .columns > div > .columns-img-col {
   order: 0;
+  border-radius: 10px 10px 10px 10px;
 }
 
 .columns > div > .columns-img-col img {
