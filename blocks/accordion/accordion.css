@@ -42,8 +42,6 @@
 .accordion details summary:focus,
 .accordion details summary:hover {
   background-color: var(--light-color);
-  border-color: var(--background-color);
-  border-radius: 10px 10px 0px 0px;
 }
 
 .accordion details summary::-webkit-details-marker {
