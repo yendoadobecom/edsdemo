@@ -4,17 +4,14 @@
   text-align: left;
   padding: 5px 10px 10px 10px;
   font-size: var(--body-font-size-xs);
-  border-radius: 10px 10px 10px 10px;
 }
 
 .columns img {
   width: 100%;
-  border-radius: 10px 10px 10px 10px;
 }
 
 .columns > div > div {
   order: 1;
-  border-radius: 10px 10px 10px 10px;
 }
 
 .columns > div > div strong {
@@ -28,12 +25,10 @@
 
 .columns > div > .columns-img-col {
   order: 0;
-  border-radius: 10px 10px 10px 10px;
 }
 
 .columns > div > .columns-img-col img {
   display: block;
-  border-radius: 10px 10px 10px 10px;
 }
 
 @media (width >= 900px) {
