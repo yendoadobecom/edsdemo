@@ -34,14 +34,14 @@
 }
 
 .accordion details[open] summary {
-  /*background-color: var(--light-color);*/
-  background-color: var(--background-color);
+  background-color: var(--light-color);
+  /*background-color: var(--background-color);*/
 }
 
 .accordion details summary:focus,
 .accordion details summary:hover {
-  /*background-color: var(--light-color);*/
-  background-color: var(--background-color);
+  background-color: var(--light-color);
+  /*background-color: var(--background-color);*/
 }
 
 .accordion details summary::-webkit-details-marker {
