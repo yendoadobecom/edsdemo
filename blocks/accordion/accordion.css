@@ -45,7 +45,7 @@
 }
 
 .accordion details summary::-webkit-details-marker {
-  display: block;
+  display: none;
 }
 
 .accordion details summary::after {
