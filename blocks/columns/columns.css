@@ -29,7 +29,6 @@
 
 .columns > div > .columns-img-col img {
   display: block;
-  border-radius: 10px 10px 10px 10px;
 }
 
 @media (width >= 900px) {
@@ -37,6 +36,7 @@
     align-items: center;
     flex-direction: unset;
     gap: 32px;
+    border-radius: 10px 10px 10px 10px;
   }
 
   .columns > div > div {
