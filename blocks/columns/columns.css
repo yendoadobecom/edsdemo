@@ -4,6 +4,8 @@
   text-align: left;
   padding: 10px 10px 10px 10px;
   font-size: var(--body-font-size-xs);
+  border-width: 2px 0 2px 2px;
+  border-color: #333333;
 }
 
 .columns img {
@@ -21,6 +23,8 @@
   border-radius: 10px 10px 10px 10px;
   background-color: #00CC99;
   font-size: var(--body-font-size-s);
+  border-width: 2px 2px 2px 0;
+  border-color: #333333;
 }
 
 .columns > div > .columns-img-col {
