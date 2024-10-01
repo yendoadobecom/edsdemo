@@ -1,11 +1,12 @@
 .columns > div {
+  border: 2px solid;
   display: flex;
   flex-direction: column;
   text-align: left;
   padding: 10px 10px 10px 10px;
   font-size: var(--body-font-size-xs);
   border-width: 2px 0 2px 2px;
-  border-color: #333333;
+  border-color: #000000;
 }
 
 .columns img {
@@ -24,7 +25,7 @@
   background-color: #00CC99;
   font-size: var(--body-font-size-s);
   border-width: 2px 2px 2px 0;
-  border-color: #333333;
+  border-color: #000000;
 }
 
 .columns > div > .columns-img-col {
