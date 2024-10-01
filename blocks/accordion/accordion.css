@@ -60,8 +60,9 @@
 
 .accordion details[open] summary::after {
   transform: translateY(-50%) rotate(-45deg);
-  /*border-color: var(--background-color);*/
-  border-radius: 10px 10px 0px 0px;
+  /*border-color: var(--background-color);
+  border-radius: 10px 10px 0px 0px;*/
+  background-color: #FF0099;
 }
 
 .accordion details .accordion-item-body {
