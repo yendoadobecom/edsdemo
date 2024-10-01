@@ -33,7 +33,8 @@
 }
 
 .accordion details[open] summary {
-  background-color: var(--light-color);
+  /*background-color: var(--light-color);*/
+  background-color: #CCFFFF;
   border-color: var(--background-color);
   border-radius: 10px 10px 0px 0px;
   /*background-color: #FF0099;*/
@@ -41,7 +42,8 @@
 
 .accordion details summary:focus,
 .accordion details summary:hover {
-  background-color: var(--light-color);
+  /*background-color: var(--light-color);*/
+  background-color: #CCFFFF;
 }
 
 .accordion details summary::-webkit-details-marker {
