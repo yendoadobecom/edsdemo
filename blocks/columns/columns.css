@@ -15,7 +15,8 @@
 }
 
 .columns > div > div strong {
-  width: 100px;
+  display: block;
+  width: 100%;
   padding: 10px 10px 10px 10px;
   border-radius: 10px 10px 10px 10px;
   background-color: #00CC99;
