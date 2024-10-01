@@ -18,7 +18,6 @@
 }
 
 .accordion details summary {
-  display: none;
   position: relative;
   /*padding: 0 16px;*/
   padding: 10px 10px 10px 10px;
@@ -46,7 +45,7 @@
 }
 
 .accordion details summary::-webkit-details-marker {
-  display: none;
+  display: block;
 }
 
 .accordion details summary::after {
