@@ -6,8 +6,6 @@
   grid-template-columns: repeat(auto-fill, minmax(278px, 1fr));
   grid-gap: 16px;
   border-radius: 10px 10px 10px 10px;
-  background-color: #00FFFF;
-  border-top: solid;
 }
 
 .cards > ul > li {
@@ -15,11 +13,11 @@
   background-color: var(--background-color);
   border-color: #000000;
   border-radius: 10px 10px 10px 10px;
+  background-color: #FF00FF;
 }
 
 .cards > li {
   background-color: var(--background-color);
-  background-color: #FF00FF;
 }
 
 
