@@ -18,7 +18,7 @@
 }
 
 .accordion details summary {
-  display: block;
+  display: none;
   position: relative;
   /*padding: 0 16px;*/
   padding: 10px 10px 10px 10px;
