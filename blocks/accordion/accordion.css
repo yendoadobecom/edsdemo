@@ -54,14 +54,14 @@
   width: 6px;
   height: 6px;
   border: 2px solid;
-  /*border-color: var(--background-color);*/
-  border-radius: 10px 10px 0px 0px;
   border-width: 2px 2px 0 0;
   transition: transform 0.2s;
 }
 
 .accordion details[open] summary::after {
   transform: translateY(-50%) rotate(-45deg);
+  /*border-color: var(--background-color);*/
+  border-radius: 10px 10px 0px 0px;
 }
 
 .accordion details .accordion-item-body {
