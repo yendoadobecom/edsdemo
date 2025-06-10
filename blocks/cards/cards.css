@@ -15,17 +15,17 @@
   border-radius: 10px 10px 10px 10px;
 }
 
-.cards .red > cards {
+.cards.red {
   background-color: #FF0000;
   border-color: #FF0000;
 }
 
-.cards .green > cards {
+.cards.green {
   background-color: #00FF00;
   border-color: #00FF00;
 }
 
-.cards .blue > cards {
+.cards.blue {
   background-color: #0000FF;
   border-color: #0000FF;
 }
