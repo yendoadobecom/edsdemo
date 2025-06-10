@@ -33,6 +33,18 @@
   margin-top: 10px;
 }
 
+.cards .red {
+  background-color: #990000;
+}
+
+.cards .green {
+  background-color: #009900;
+}
+
+.cards .blue {
+  background-color: #000099;
+}
+
 .cards > ul > li img {
   width: 100%;
   aspect-ratio: 4 / 3;
