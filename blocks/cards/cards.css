@@ -33,15 +33,15 @@
   margin-top: 10px;
 }
 
-.cards .red {
+.cards .red > ul > li {
   background-color: #990000;
 }
 
-.cards .green {
+.cards .green > ul > li {
   background-color: #009900;
 }
 
-.cards .blue {
+.cards .blue > ul > li {
   background-color: #000099;
 }
 
