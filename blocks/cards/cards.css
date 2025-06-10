@@ -8,32 +8,26 @@
   border-radius: 10px 10px 10px 10px;
 }
 
-.cards .red > ul > li {
-  border: 1px solid var(--dark-color);
-  background-color: #FF0000;
-  border-color: #FF0000;
-  border-radius: 10px 10px 10px 10px;
-}
-
-.cards .green > ul > li {
-  border: 1px solid var(--dark-color);
-  background-color: #00FF00;
-  border-color: #00FF00;
-  border-radius: 10px 10px 10px 10px;
-}
-
-.cards .blue > ul > li {
-  border: 1px solid var(--dark-color);
-  background-color: #0000FF;
-  border-color: #0000FF;
-  border-radius: 10px 10px 10px 10px;
-}
-
 .cards > ul > li {
   border: 1px solid var(--dark-color);
   background-color: var(--background-color);
   border-color: #000000;
   border-radius: 10px 10px 10px 10px;
+}
+
+.cards .red > cards {
+  background-color: #FF0000;
+  border-color: #FF0000;
+}
+
+.cards .green > cards {
+  background-color: #00FF00;
+  border-color: #00FF00;
+}
+
+.cards .blue > cards {
+  background-color: #0000FF;
+  border-color: #0000FF;
 }
 
 .cards > li {
