@@ -16,17 +16,14 @@
 }
 
 .cards.red {
-  background-color: #FF0000;
   border-color: #FF0000;
 }
 
 .cards.green {
-  background-color: #00FF00;
   border-color: #00FF00;
 }
 
 .cards.blue {
-  background-color: #0000FF;
   border-color: #0000FF;
 }
 
