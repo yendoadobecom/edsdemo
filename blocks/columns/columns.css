@@ -15,6 +15,7 @@
 
 .columns > div > div {
   order: 1;
+  background-color: #00FF55;
 }
 
 .columns > div > div strong {
@@ -40,7 +41,6 @@
     align-items: center;
     flex-direction: unset;
     gap: 32px;
-    background-color: #00FF55;
   }
 
   .columns > div > div {
