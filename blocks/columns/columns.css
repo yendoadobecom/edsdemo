@@ -3,6 +3,7 @@
   flex-direction: column;
   text-align: left;
   padding: 5px 10px 10px 10px;
+  background-color: #FFFFFF;
   font-color: #005522;
   font-size: var(--body-font-size-xs);
 }
