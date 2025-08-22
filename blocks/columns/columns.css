@@ -11,11 +11,11 @@
 .columns img {
   /*width: 100%;*/
   width: 50%;
-  background-color: #00FF55;
 }
 
 .columns > div > div {
   order: 1;
+  background-color: #00FF55;
 }
 
 .columns > div > div strong {
