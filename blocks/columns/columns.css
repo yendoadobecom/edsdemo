@@ -6,6 +6,7 @@
   background-color: #FFFFFF;
   font-color: #007722;
   font-size: var(--body-font-size-xs);
+  border-bottom: 1px solid #007722;
 }
 
 .columns img {
@@ -46,6 +47,5 @@
     flex: 1;
     order: unset;
     background-color: #FFFFFF;
-    border-bottom-color: #007722;
   }
 }
